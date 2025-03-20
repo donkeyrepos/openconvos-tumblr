@@ -8,4 +8,4 @@ People who are logged-in in tumblr are able to like or reblog conversations.
 
 # Screenshot
 
-![alt tag](https://raw.githubusercontent.com/OpenCONVOS-Ltd/openconvos-tumblr/main/screenshot.png)
+![alt tag](https://raw.githubusercontent.com/donkeyrepos/openconvos-tumblr/main/screenshot.png)
